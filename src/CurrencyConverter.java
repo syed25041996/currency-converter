@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Syed
  * @since 20/09/2022
  */
-public class Streams {
+public class CurrencyConverter {
 
     public static void main(String[] args){
 
